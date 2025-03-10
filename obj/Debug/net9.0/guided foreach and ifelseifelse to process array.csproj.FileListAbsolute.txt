@@ -12,3 +12,4 @@ D:\Kodehode\C#\guided foreach and ifelseifelse to process array\obj\Debug\net9.0
 D:\Kodehode\C#\guided foreach and ifelseifelse to process array\obj\Debug\net9.0\guided foreach and ifelseifelse to process array.pdb
 D:\Kodehode\C#\guided foreach and ifelseifelse to process array\obj\Debug\net9.0\guided foreach and ifelseifelse to process array.genruntimeconfig.cache
 D:\Kodehode\C#\guided foreach and ifelseifelse to process array\obj\Debug\net9.0\ref\guided foreach and ifelseifelse to process array.dll
+D:\Kodehode\C#\guided foreach and ifelseifelse to process array\obj\Debug\net9.0\guided foreach and ifelseifelse to process array.sourcelink.json

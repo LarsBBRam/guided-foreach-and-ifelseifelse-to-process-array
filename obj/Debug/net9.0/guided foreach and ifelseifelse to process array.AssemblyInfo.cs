@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("guided foreach and ifelseifelse to process array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+790edce8492f35bcbe7dc50558d2c52bcc5c99cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("guided foreach and ifelseifelse to process array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("guided foreach and ifelseifelse to process array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
