@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "guided foreach and ifelseifelse to process array/1.0.0": {
+        "runtime": {
+          "guided foreach and ifelseifelse to process array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "guided foreach and ifelseifelse to process array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

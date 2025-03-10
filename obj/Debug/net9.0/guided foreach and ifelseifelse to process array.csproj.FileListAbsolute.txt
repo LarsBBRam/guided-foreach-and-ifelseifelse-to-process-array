@@ -1,0 +1,14 @@
+D:\Kodehode\C#\guided foreach and ifelseifelse to process array\bin\Debug\net9.0\guided foreach and ifelseifelse to process array.exe
+D:\Kodehode\C#\guided foreach and ifelseifelse to process array\bin\Debug\net9.0\guided foreach and ifelseifelse to process array.deps.json
+D:\Kodehode\C#\guided foreach and ifelseifelse to process array\bin\Debug\net9.0\guided foreach and ifelseifelse to process array.runtimeconfig.json
+D:\Kodehode\C#\guided foreach and ifelseifelse to process array\bin\Debug\net9.0\guided foreach and ifelseifelse to process array.dll
+D:\Kodehode\C#\guided foreach and ifelseifelse to process array\bin\Debug\net9.0\guided foreach and ifelseifelse to process array.pdb
+D:\Kodehode\C#\guided foreach and ifelseifelse to process array\obj\Debug\net9.0\guided foreach and ifelseifelse to process array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodehode\C#\guided foreach and ifelseifelse to process array\obj\Debug\net9.0\guided foreach and ifelseifelse to process array.AssemblyInfoInputs.cache
+D:\Kodehode\C#\guided foreach and ifelseifelse to process array\obj\Debug\net9.0\guided foreach and ifelseifelse to process array.AssemblyInfo.cs
+D:\Kodehode\C#\guided foreach and ifelseifelse to process array\obj\Debug\net9.0\guided foreach and ifelseifelse to process array.csproj.CoreCompileInputs.cache
+D:\Kodehode\C#\guided foreach and ifelseifelse to process array\obj\Debug\net9.0\guided foreach and ifelseifelse to process array.dll
+D:\Kodehode\C#\guided foreach and ifelseifelse to process array\obj\Debug\net9.0\refint\guided foreach and ifelseifelse to process array.dll
+D:\Kodehode\C#\guided foreach and ifelseifelse to process array\obj\Debug\net9.0\guided foreach and ifelseifelse to process array.pdb
+D:\Kodehode\C#\guided foreach and ifelseifelse to process array\obj\Debug\net9.0\guided foreach and ifelseifelse to process array.genruntimeconfig.cache
+D:\Kodehode\C#\guided foreach and ifelseifelse to process array\obj\Debug\net9.0\ref\guided foreach and ifelseifelse to process array.dll
